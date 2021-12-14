@@ -18,5 +18,7 @@ Slightly changed the color of "seo" in Horiseon to emphasize the SEO pun that th
 
 In CSS:
 Removed "header" from the "header h1" and "header nav" rules. It was redundant since the only h1 and navbar were in the header. 
-The main section had separate classes for each of the three items, even though the CSS rules were identical. I replaced these classes with one .services-provided class, and cut down the three CSS rules to one that was applicable to all three. I did the same for the corresponding images and headers.
+The main section had separate classes for each of the three items, even though the CSS rules were identical. I replaced these classes with one .services-provided class, and cut down the three CSS rules to one that was applicable to all three. I did the same for the corresponding images and headers. I consolidated the sidebar in the same way, and moved the sidebar's rules down to below the Main one to match the order in which they appear in CSS.
+
+
 
