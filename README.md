@@ -14,3 +14,9 @@ Replaced <div class="footer"> with <footer>, and updated the corresponding CSS t
 
 Added alt descriptors to the images and icons. 
 
+Slightly changed the color of "seo" in Horiseon to emphasize the SEO pun that they intended. The other color was too similar to the rest of the letters and it wasn't clear if that was on purpose or if I was just seeing things. 
+
+In CSS:
+Removed "header" from the "header h1" and "header nav" rules. It was redundant since the only h1 and navbar were in the header. 
+The main section had separate classes for each of the three items, even though the CSS rules were identical. I replaced these classes with one .services-provided class, and cut down the three CSS rules to one that was applicable to all three. I did the same for the corresponding images and headers.
+
