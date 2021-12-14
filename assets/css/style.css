@@ -93,7 +93,7 @@ main {
     font-size: 36px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -104,17 +104,17 @@ main {
     background-color: #2589bd;
 }
 
-.benefit-category {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-category h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-category img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
