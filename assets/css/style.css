@@ -15,6 +15,7 @@ header {
     color: #ffffff;
 }
 
+/* Company title, on the left side of the header */
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,6 +25,7 @@ h1 .seo {
     color: #cfdba3;
 }
 
+/* Navbar linking to the relevant sections lower in the same page */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/*The main stock photo banner at the top of the page, right below the header */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +78,7 @@ main {
     margin-left: 20px;
 }
 
+/* The .services-provided class covers the content of the <main> element */
 .services-provided {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,6 +97,7 @@ main {
     font-size: 36px;
 }
 
+/* The <aside> is the sidebar on the right */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -104,6 +109,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* The .benefits class covers the items in the sidebar on the right */
 .benefits {
     margin-bottom: 32px;
     color: #ffffff;
