@@ -17,3 +17,8 @@ Clean up the code: There were several instances where rules were applied to more
 In the header, the "seo" in "Horiseo" was a slightly different shade of white, as a pun on the SEO services they provide. This shade was very similar to the rest of the word, resulting in it being unclear if they were a different shade or if there was just a shadow on the screen. I changed the shade to a slightly more noticeable one to provide clarity while maintaining the aesthetic appeal. 
 
 
+Screenshots:
+https://github.com/mlfitz2/Horiseon-Code-Refactor/blob/main/assets/images/Screenshot-1.JPG
+https://github.com/mlfitz2/Horiseon-Code-Refactor/blob/main/assets/images/Screenshot-2.JPG
+
+
