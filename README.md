@@ -1,4 +1,4 @@
-# Code-Refactor
+# Horiseon-Code-Refactor
 
 Updated the site Title from "website" to "Horiseon."
 
